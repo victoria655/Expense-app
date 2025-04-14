@@ -71,6 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### live link to cloudflare:
 
-expense-app-5bq.pages.dev
-
+https://expense-app-5bq.pages.dev/
 
